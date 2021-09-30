@@ -1,6 +1,6 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
+import protocol.bedrock.BedrockPacketHelper;
 import com.nukkitx.protocol.bedrock.packet.EntityPickRequestPacket;
 import com.nukkitx.protocol.bedrock.v291.serializer.EntityPickRequestSerializer_v291;
 import io.netty.buffer.ByteBuf;

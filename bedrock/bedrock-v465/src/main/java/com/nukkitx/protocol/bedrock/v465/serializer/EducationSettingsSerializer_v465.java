@@ -1,6 +1,6 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
+import protocol.bedrock.BedrockPacketHelper;
 import com.nukkitx.protocol.bedrock.packet.EducationSettingsPacket;
 import com.nukkitx.protocol.bedrock.v407.serializer.EducationSettingsSerializer_v407;
 import com.nukkitx.protocol.util.OptionalBoolean;

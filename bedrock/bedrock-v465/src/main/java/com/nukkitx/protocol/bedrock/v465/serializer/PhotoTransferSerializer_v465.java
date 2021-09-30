@@ -1,6 +1,6 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
+import protocol.bedrock.BedrockPacketHelper;
 import com.nukkitx.protocol.bedrock.data.PhotoType;
 import com.nukkitx.protocol.bedrock.packet.PhotoTransferPacket;
 import com.nukkitx.protocol.bedrock.v291.serializer.PhotoTransferSerializer_v291;

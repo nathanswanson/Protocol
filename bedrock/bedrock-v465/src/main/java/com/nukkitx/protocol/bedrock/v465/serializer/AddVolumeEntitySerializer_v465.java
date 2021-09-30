@@ -1,6 +1,6 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
+import protocol.bedrock.BedrockPacketHelper;
 import com.nukkitx.protocol.bedrock.packet.AddVolumeEntityPacket;
 import com.nukkitx.protocol.bedrock.v440.serializer.AddVolumeEntitySerializer_v440;
 import io.netty.buffer.ByteBuf;

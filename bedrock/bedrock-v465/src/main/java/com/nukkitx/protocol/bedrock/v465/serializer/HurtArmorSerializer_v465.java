@@ -1,7 +1,7 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.network.VarInts;
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
+import network.common.VarInts;
+import protocol.bedrock.BedrockPacketHelper;
 import com.nukkitx.protocol.bedrock.packet.HurtArmorPacket;
 import com.nukkitx.protocol.bedrock.v407.serializer.HurtArmorSerializer_v407;
 import io.netty.buffer.ByteBuf;

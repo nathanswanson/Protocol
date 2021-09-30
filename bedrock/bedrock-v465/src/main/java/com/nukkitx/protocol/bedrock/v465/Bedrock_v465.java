@@ -1,6 +1,6 @@
 package com.nukkitx.protocol.bedrock.v465;
 
-import com.nukkitx.protocol.bedrock.BedrockPacketCodec;
+import protocol.bedrock.BedrockPacketCodec;
 import com.nukkitx.protocol.bedrock.packet.*;
 import com.nukkitx.protocol.bedrock.v291.serializer.*;
 import com.nukkitx.protocol.bedrock.v313.serializer.AddEntitySerializer_v313;

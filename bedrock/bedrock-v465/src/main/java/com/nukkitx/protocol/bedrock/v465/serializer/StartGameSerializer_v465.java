@@ -1,7 +1,7 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.network.VarInts;
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
+import network.common.VarInts;
+import protocol.bedrock.BedrockPacketHelper;
 import com.nukkitx.protocol.bedrock.data.EduSharedUriResource;
 import com.nukkitx.protocol.bedrock.data.GamePublishSetting;
 import com.nukkitx.protocol.bedrock.data.GameType;

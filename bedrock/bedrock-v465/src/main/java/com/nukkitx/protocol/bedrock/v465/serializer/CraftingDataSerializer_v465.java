@@ -1,8 +1,8 @@
 package com.nukkitx.protocol.bedrock.v465.serializer;
 
-import com.nukkitx.network.VarInts;
-import com.nukkitx.protocol.bedrock.BedrockPacketHelper;
-import com.nukkitx.protocol.bedrock.BedrockSession;
+import network.common.VarInts;
+import protocol.bedrock.BedrockPacketHelper;
+import protocol.bedrock.BedrockSession;
 import com.nukkitx.protocol.bedrock.data.inventory.CraftingDataType;
 import com.nukkitx.protocol.bedrock.data.inventory.MaterialReducer;
 import com.nukkitx.protocol.bedrock.packet.CraftingDataPacket;
